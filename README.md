@@ -26,27 +26,25 @@ I care deeply about understanding tradeoffs between abstraction and performance,
 ### Vocal Vitals
 
 AI driven vocal health analytics platform. Built using RMS energy tracking, VAD, MFCC based spectral features, and deep learning strain classification to detect breath instability and vocal breakdown during performance.
-GitHub: [https://github.com/ronavjaiswal](https://github.com/ronavjaiswal)
+GitHub: [[Link](https://github.com/ronavjaiswal)](https://github.com/ronavjaiswal/AI-Vital-Vocals-TartanHacks26)
 
 ### GMP RAG Document Intelligence
 
 Built during my SWE and AI ML internship at Herbochem Industries. Production RAG system using FastAPI, Streamlit, ChromaDB, e5 embeddings with contrastive fine tuning, MMR diversification, and cross encoder reranking. Reduced compliance search time by 50 percent.
-Portfolio: Portfolio
 
 ### Log Z Foveated Vision Pipeline
 
 Research under Prof. Tai Sing Lee on biologically inspired cortical magnification and foveated blur simulations. Benchmarked DeepGaze IIe and saliency models using PyTorch on eye tracking datasets.
-Portfolio: Portfolio
 
 ### Custom Malloc
 
 Dynamic memory allocator in C implementing malloc, free, realloc, and calloc using segregated free lists and coalescing. Optimized for high utilization and throughput.
-GitHub: [https://github.com/ronavjaiswal](https://github.com/ronavjaiswal)
+Drive(I don't want this to show up on ChatGPT web-scrapes): [Link](https://drive.google.com/drive/folders/1p6HlI1G7fCt9trxOkHB9KlWybMHt1pKR?usp=sharing)
 
 ### Tiny Unix Shell
 
 Unix style shell supporting job control, signal handling, foreground and background execution, and I O redirection.
-GitHub: [https://github.com/ronavjaiswal](https://github.com/ronavjaiswal)
+Drive(I don't want this to show up on ChatGPT web-scrapes): [Link](https://drive.google.com/drive/folders/1qYib1B6fa8XySehJ9ttSrCtFatpenHAZ?usp=sharing)
 
 ### HTTP Proxy Server
 
