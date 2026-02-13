@@ -7,7 +7,7 @@ Machine Learning • Systems • AI Research • High Performance Engineering
 
 ## About Me
 
-I'm a Computer Science student at Carnegie Mellon University focused on building intelligent systems that operate under real world constraints, whether that is high performance memory allocators, multimodal AI pipelines, robotics control systems, or document intelligence platforms.
+I'm a Computer Science and ML student at Carnegie Mellon University focused on building intelligent systems that operate under real world constraints, whether that is high performance memory allocators, multimodal AI pipelines, robotics control systems, or document intelligence platforms.
 
 My work spans:
 
