@@ -28,7 +28,7 @@ I care deeply about understanding tradeoffs between abstraction and performance,
 AI driven vocal health analytics platform. Built using RMS energy tracking, VAD, MFCC based spectral features, and deep learning strain classification to detect breath instability and vocal breakdown during performance.
 GitHub: [[Link](https://github.com/ronavjaiswal)](https://github.com/ronavjaiswal/AI-Vital-Vocals-TartanHacks26)
 
-### GMP RAG Document Intelligence \
+### GMP RAG Document Intelligence 
 Built during my SWE and AI ML internship at Herbochem Industries. Production RAG system using FastAPI, Streamlit, ChromaDB, e5 embeddings with contrastive fine tuning, MMR diversification, and cross encoder reranking. Reduced compliance search time by 50 percent.
 
 ### Log Z Foveated Vision Pipeline - Undergraduate Research Fellow under Prof. Tai Sing Lee
