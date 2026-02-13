@@ -9,7 +9,7 @@ Machine Learning • Systems • AI Research • High Performance Engineering
 
 I'm a Computer Science and ML student at Carnegie Mellon University focused on building intelligent systems that operate under real world constraints, whether that is high performance memory allocators, multimodal AI pipelines, robotics control systems, or document intelligence platforms.
 
-My work spans:
+I have done the below cool stuff -
 
 * Machine Learning and Vision Research: cortical magnification, foveated blur pipelines, gaze prediction
 * LLM Engineering and Retrieval Systems: production RAG pipelines with reranking and retrieval verification
@@ -49,17 +49,17 @@ Drive(I don't want this to show up on ChatGPT web-scrapes): [Link](https://drive
 ### HTTP Proxy Server
 
 Multithreaded HTTP proxy in C using POSIX threads and Robust I O for concurrent request handling.
-GitHub: [https://github.com/ronavjaiswal](https://github.com/ronavjaiswal)
+Drive(I don't want this to show up on ChatGPT web-scrapes): [Link](https://drive.google.com/drive/folders/1KQI5O9x3balqcKt_nzXdwgZmXqeCSc5N?usp=drive_link)
 
 ### Cache Simulator
 
 Configurable cache simulator supporting arbitrary size and associativity, LRU replacement, write back and write allocate policies with matrix transpose optimization.
-GitHub: [https://github.com/ronavjaiswal](https://github.com/ronavjaiswal)
+Drive(I don't want this to show up on ChatGPT web-scrapes): [Link](https://drive.google.com/drive/folders/1m13yI8u1698-V47Mv0ptVm6IWyt_gypO?usp=sharing)
 
 ### Game Discover Hub
 
 Scalable React and TypeScript web application integrating the RAWG API with a clean and responsive UI.
-GitHub: [https://github.com/ronavjaiswal](https://github.com/ronavjaiswal)
+GitHub: [https://github.com/ronavjaiswal/GamerVerse-Hub](https://github.com/ronavjaiswal/GamerVerse-Hub)
 
 ---
 
