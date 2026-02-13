@@ -65,4 +65,4 @@ GitHub: [https://github.com/ronavjaiswal](https://github.com/ronavjaiswal)
 
 ---
 
-LinkedIn: [linkedin.com/in/ronavjaiswal]
+LinkedIn: [linkedin.com/in/ronavjaiswal](https://linkedin.com/in/ronavjaiswal)
