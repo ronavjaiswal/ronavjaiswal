@@ -65,7 +65,4 @@ GitHub: [https://github.com/ronavjaiswal](https://github.com/ronavjaiswal)
 
 ---
 
-LinkedIn: linkedin.com/in/ronavjaiswal
-GitHub: [https://github.com/ronavjaiswal](https://github.com/ronavjaiswal)
-
-If you’d like, I can now make this even tighter and more “top tier AI intern ready” with sharper language and stronger positioning.
+LinkedIn: [linkedin.com/in/ronavjaiswal]
